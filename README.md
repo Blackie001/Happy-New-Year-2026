@@ -4,14 +4,18 @@ A light, creative, and festive single-page web experience to celebrate the arriv
 
 Perfect for sharing as a digital greeting, embedding on a site, or just enjoying the sparkle!
 
+---
+
 ## Live Demo
 (Open `index.html` in your browser to see it in action!)
+
+---
 
 ## Preview
 <img width="1864" height="996" alt="image" src="https://github.com/user-attachments/assets/661a28bc-4d2f-4f5b-9feb-b1e4c4f02762" />
 <img width="1846" height="987" alt="image" src="https://github.com/user-attachments/assets/e2b58511-9a96-4dbd-be63-10e941ce0f4f" />
 
-
+---
 
 ## Features
 - ✨ Bursting colorful confetti animation
@@ -21,4 +25,27 @@ Perfect for sharing as a digital greeting, embedding on a site, or just enjoying
 - 📱 Fully responsive design
 - ⚡ No external dependencies – pure HTML, CSS, and JavaScript
 
+---
+
 ## File Structure
+- Auto scroll card that wishes you a new year
+- 
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!
+If you'd like to add more personality modes, events, or animations, feel free to contribute.
+
+---
+
+## 📜 License
+
+This project is open-source under the MIT License.
+Use it, modify it, or build on it freely.
+
+---
+
+## 🚀 How to View
+Clone this repository: https://blackie001.github.io/Happy-New-Year-2026/
